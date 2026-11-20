@@ -10,4 +10,4 @@ Business Information Systems student at the University of Wollongong, based in W
 SQL (MySQL) · Excel · Power BI
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/diem-quynh-quinn-vu-81092b383/)
+[LinkedIn](https://www.linkedin.com/in/diem-quynh-vu/)
